@@ -2,6 +2,7 @@
     "plugins": {
         "mlogin": {
             "name": "mLogin",
+            "type": "paid",
             "description": "Sistema de login e registro para servidores Minecraft",
             "version": "1.1.0",
             "download-url": "https://github.com/kakaheh/plugins/releases/download/1.1.0/mLogin.jar",
@@ -9,6 +10,7 @@
         }
         "mdiscord": {
             "name": "mDiscord",
+            "type": "free",
             "description": "Sistema de vinculção discord",
             "version": "d1.1.0",
             "download-url": "https://github.com/kakaheh/plugins/releases/download/d1.1.0/mDiscord.jar",
@@ -16,5 +18,6 @@
         }
     }
 }
+
 
 
