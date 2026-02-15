@@ -4,11 +4,12 @@
             "name": "mLogin",
             "description": "Sistema de login e registro para servidores Minecraft",
             "version": "1.1.0",
-            "download-url": "https://github.com/kakaheh/plugins/releases/download/v1.1.0/mLogin.jar",
+            "download-url": "https://github.com/kakaheh/plugins/releases/download/1.1.0/mLogin.jar",
             "file-name": "mLogin.jar"
         }
     }
 
 }
+
 
 
