@@ -10,10 +10,11 @@
         "mdiscord": {
             "name": "mDiscord",
             "description": "Sistema de vinculção discord",
-            "version": "1.1.0",
-            "download-url": "https://github.com/kakaheh/plugins/releases/download/1.1.0/mDiscord.jar",
+            "version": "d1.1.0",
+            "download-url": "https://github.com/kakaheh/plugins/releases/download/d1.1.0/mDiscord.jar",
             "file-name": "mDiscord.jar"
         }
     }
 }
+
 
