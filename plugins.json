@@ -3,6 +3,7 @@
         "mlogin": {
             "name": "mLogin",
             "type": "paid",
+            "sigla": "mlg",
             "description": "Sistema de login e registro para servidores Minecraft",
             "version": "1.1.0",
             "download-url": "https://github.com/kakaheh/plugins/releases/download/1.1.0/mLogin.jar",
@@ -11,6 +12,7 @@
         "mpescaria": {
             "name": "mPescaria",
             "type": "free",
+            "sigla": "mpesq",
             "description": "Plugin de Pescaria",
             "version": "d1.1.0",
             "download-url": "https://github.com/kakaheh/plugins/releases/download/d1.1.0/mPescaria.jar",
@@ -19,6 +21,7 @@
         "VeonEvents": {
             "name": "VeonEvents",
             "type": "paid",
+            "sigla": "mve",
             "description": "Plugin de Pescaria",
             "version": "VeonEvents-1.1.0",
             "download-url": "https://github.com/kakaheh/plugins/releases/download/VeonEvents-1.1.0/VeonEvents.jar",
@@ -26,6 +29,7 @@
         }
     }
 }
+
 
 
 
