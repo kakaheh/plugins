@@ -22,13 +22,23 @@
             "name": "VeonEvents",
             "type": "paid",
             "sigla": "mve",
-            "description": "Plugin de Pescaria",
+            "description": "Plugin de eventos",
             "version": "VeonEvents-1.1.0",
             "download-url": "https://github.com/kakaheh/plugins/releases/download/VeonEvents-1.1.0/VeonEvents.jar",
             "file-name": "VeonEvents.jar"
         }
+        "VeonLeagues": {
+            "name": "VeonLeagues",
+            "type": "paid",
+            "sigla": "vlg",
+            "description": "Plugin de Ligas competitivas",
+            "version": "VeonLeagues-1.1.0",
+            "download-url": "https://github.com/kakaheh/plugins/releases/download/VeonLeagues-1.1.0/VeonLeagues.jar",
+            "file-name": "VeonLeagues.jar"
+        }
     }
 }
+
 
 
 
